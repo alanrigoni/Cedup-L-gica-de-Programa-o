@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/06/26 08:55:21.971,=C:\Users\alan_\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 08:56:04.442,=C:\Users\alan_\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/06/26 09:30:19.261,C:\Users\alan_\Desktop\alunolp\ExercicioBanco\Unit1.pas=C:\Users\alan_\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 09:30:19.261,C:\Users\alan_\Desktop\alunolp\ExercicioBanco\Unit1.dfm=C:\Users\alan_\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/06/26 09:30:21.792,C:\Users\alan_\Desktop\alunolp\ExercicioBanco\Unit2.pas=C:\Users\alan_\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/06/26 09:30:21.792,C:\Users\alan_\Desktop\alunolp\ExercicioBanco\Unit2.dfm=C:\Users\alan_\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019/06/26 09:30:24.528,C:\Users\alan_\Desktop\alunolp\ExercicioBanco\Project1.dproj=C:\Users\alan_\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
